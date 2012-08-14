@@ -5,8 +5,10 @@ Used to test git merge ICE.
 
 Adding data from repository 1
 
+<<<<<<< HEAD
 2. Adding data from repository 2
-
+=======
 Adding MORE data from repository 1!
+>>>>>>> f4c97353ac02ec240cfada8a35c1812faf8fcaf4
 
 
